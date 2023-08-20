@@ -1,0 +1,4 @@
+search for a book using the ISBN number -- check if it is there by looking if the api has a img for it -- if they have add ask if you want to add it to reading list
+--once in reading list have 2 pages, currently reading, reading list
+
+--by clicking the small book in the bottom it will be added to currently reading.
